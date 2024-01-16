@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LocalConfusedSci
-- High School Senior getting involved in coding
-- Interested in Python and the RaspberryPi
-- I want to study Mechatronics Engineering!
+- 👋 Hi, I’m **Anirud Chakkarapani**! **Ani** for short
+- Purdue Engineering student
+- Interested in Python, Arduino and the RaspberryPi
+- I want to study Mechatronics
 
 
